@@ -1,1 +1,1 @@
-Wesh moi c'est Xernas , et bah j'apprends à coder :) .
+Wesh moi c'est Xernas , je ferai bientot un readme clean mais pour l'instant c'est ça
