@@ -1,5 +1,5 @@
-<h1 align="center">Salut 👋, C'est Xernas</h1>
-<h3 align="center">Un développeur Java & Web passionné !</h3>
+<h1 align="center">Hey 👋, I'm Xernas Dev</h1>
+<h3 align="center">A passionate Java & Web developer !</h3>
 
 - 🔭 Lately, I've been working on **my portfolio**
 
