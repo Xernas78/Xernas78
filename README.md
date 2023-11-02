@@ -1,7 +1,12 @@
-<h1>Hey 👋, I'm Xernas Dev</h1>
-<h3>A passionate Java & Web developer !</h3>
+# Hey 👋, I'm Xernas Dev
+## A passionate Java & Web developer
 
-
+<details>
+  <summary>👨‍💻 About me</summary>
+  I'm Xernas, I was always very interested in programming in general, I first started with Minecraft, wondering how it all worked so I first began modifying the game's code and having a lot of fun. Later I became interested in Minecraft plugins because They didn't require modifying the client and It was a lot simpler, thanks to Minecraft plugins I gained a lot of experience in Java so I started learning other languages like Python at first but then C# (because the syntax is very similar), HTML/CSS/JS, and other languages.
+Then I specialized in FullStack programming and Minecraft Plugin development with other hobbies like creating software.
+I now have 3 years of programming experience!
+</details>
 
 
 ---
