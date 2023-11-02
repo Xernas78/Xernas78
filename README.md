@@ -12,10 +12,11 @@
 
 <h2>📊 Stats</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xernas78&show_icons=true&theme=onedark&locale=en&layout=compact" alt="xernas78" />
+
 #
 
 <h2><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fpg2mUcBrM" height="30" width="40" /> Discord</h2>
-<h3>Join my server : <a href="https://discord.gg/https://discord.gg/fpg2mUcBrM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fpg2mUcBrM" height="30" width="40" /></a></h3>
+<h3>Join my discord <a href="https://discord.gg/https://discord.gg/fpg2mUcBrM" target="blank">server</a></h3>
 <h3>Contact me : .xernas</h3>
 
 #
