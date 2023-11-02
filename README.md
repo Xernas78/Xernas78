@@ -1,17 +1,7 @@
-<h1 align="center">Hey 👋, I'm Xernas Dev</h1>
-<h3 align="center">A passionate Java & Web developer !</h3>
+<h1>Hey 👋, I'm Xernas Dev</h1>
+<h3>A passionate Java & Web developer !</h3>
 
-- 🔭 Lately, I've been working on **my portfolio**
 
-- 🌱 I'm currently learning **React, SpringBoot and Fabric(Minecraft)**
-
-- 👨‍💻 All of my projects are available at [https://xernas.dev](https://xernas.dev)
-
-- 💬 Ask me about **Spigot(Minecraft), React**
-
-- 📫 How to reach me **Discord: .xernas**
-
-- ⚡ Fun fact **I'm french**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
