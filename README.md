@@ -4,7 +4,7 @@
 <details>
   <summary><h3>👨‍💻 About me</h3></summary>
   I'm Xernas, I was always very interested in programming in general, I first started with Minecraft, wondering how it all worked so I first began modifying the game's code and having a lot of fun.</br> Later I became interested in Minecraft plugins because They didn't require modifying the client and It was a lot simpler, thanks to plugins I gained a lot of experience in Java so I started learning other languages like Python at first but then C# (because the syntax is very similar), HTML/CSS/JS, and other languages.<br>
-Then I specialized in FullStack programming and Minecraft Plugin development with other hobbies like creating software and I now have 3 years of programming experience!
+Then I specialized in Front-End programming and Minecraft Plugin development with other hobbies like creating software and I now have 3 years of programming experience!
 </details>
 
 
