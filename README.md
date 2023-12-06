@@ -1,5 +1,5 @@
 # Hey 👋, I'm Xernas
-## A passionate Java & Web developer
+## A passionate French Java & Web developer
 
 <details>
   <summary><h3>👨‍💻 About me</h3></summary>
