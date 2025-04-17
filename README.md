@@ -47,7 +47,7 @@ Then I specialized in Front-End programming and Minecraft Plugin development wit
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xernas78&show_icons=true&theme=onedark&locale=en&layout=compact" alt="xernas78" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="xernas78 rank"/>
 
 #
 
